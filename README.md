@@ -6,7 +6,7 @@ Conectando Claude con Netlifly
   * Archivo Excel Base de Datos.
 * Salida de Claude:
   * Archivo Excel .xlsx con Indicadores
-  * Archivo Index.html para Netlify
+  * Archivo Index .html para Netlify
      
 ---
 
