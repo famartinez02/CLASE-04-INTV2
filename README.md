@@ -10,4 +10,4 @@ Conectando Claude con Netlifly
      
 ---
 
-Adjunto link [[INDICADORES]()]
+Adjunto link [[INDICADORES](https://delicate-genie-4cf8f9.netlify.app/)]
