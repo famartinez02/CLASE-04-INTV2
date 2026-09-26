@@ -4,9 +4,9 @@ Conectando Claude con Netlifly
 * Utilizo los siguientes componentes en Claude:
   * Prompt con las 5 partes(Rol, Contexto, Requerimiento, Tareas, Salida)
   * Archivo Excel Base de Datos.
-  * Salida de Claude:
-*Archivo Excel .xlsx con Indicadores
-*Archivo Index.html para Netlify
+* Salida de Claude:
+  * Archivo Excel .xlsx con Indicadores
+  * Archivo Index.html para Netlify
      
 ---
 
